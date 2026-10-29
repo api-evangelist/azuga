@@ -64,5 +64,127 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Azuga is a company surfaced via the API Evangelist harvest backlog (source: tag-qc) and added to the network as a stub for full-pipeline profiling.
-- https://www.azuga.com
+Azuga provides comprehensive fleet management software and GPS tracking solutions, delivering an end‑to‑end platform that includes AI‑powered dashcams, insurance tools, telematics, driver safety analytics, and customizable reporting. The service helps businesses of all sizes maximize vehicle ROI, reduce operational costs, ensure regulatory compliance, and improve driver behavior through real‑time insights and automated alerts.
+
+**Areas:** Company · Fleet Management · GPS Tracking · Telematics · Software-as-a-Service
+
+## Azuga on APIs.io
+
+Everything profiled for Azuga is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/azuga/](https://apis.io/providers/azuga/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Azuga Azuga Ws Oauth API](https://apis.io/apis/azuga/azuga-azuga-ws-oauth-api/) — The Azuga Ws Oauth API from Azuga — 4 operation(s) for azuga ws oauth.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### AsyncAPI (1)
+
+Event-driven and webhook contracts.
+
+- [Azuga Webhooks](https://apis.io/asyncapis/azuga/azuga-webhooks/)
+
+#### JSON Schema (1)
+
+The data models the API reads and writes.
+
+- [PostAzugaWsOauthV3AssetsCreateResponse](https://apis.io/schemas/azuga/azuga-post-azuga-ws-oauth-v3-assets-create-response/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Azuga Context](https://apis.io/jsonld/azuga/azuga-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Azuga API Rules](https://apis.io/rules/azuga/azuga-rules/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Azuga Authentication](https://apis.io/security/azuga/azuga-authentication/)
+- [Azuga Domain Security](https://apis.io/security/azuga/azuga-domain-security/)
+- [Azuga Trust Center](https://apis.io/security/azuga/azuga-trust-center/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Azuga Plans Pricing](https://apis.io/plans/azuga/azuga-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.azuga.com)
+- [Documentation](https://developer.azuga.com/)
+- [Getting started](https://developer.azuga.com/docs/getting-started)
+- [API reference](https://developer.azuga.com/reference)
+- [Pricing](https://www.azuga.com/pricing)
+- [Support](https://www.azuga.com/help-center)
+- [Changelog](https://developer.azuga.com/changelog)
+- [Blog](https://www.azuga.com/blog)
+- [Security](https://www.azuga.com/security)
+- [Compliance](https://www.azuga.com/security)
+- [Privacy policy](https://www.azuga.com/privacy-policy)
+
+## API Evangelist rating
+
+**Kin Score 47.3** — developing · rubric 0.25.0 · scored 2026-10-23
+
+| Facet | Score |
+|---|---|
+| Discoverability | 75.0 |
+| Contract quality | 26.9 |
+| Contract governance | 22.0 |
+| Operational transparency | 34.2 |
+| Developer ergonomics | 57.1 |
+| Access clarity | 68.4 |
+
+**Agent readiness 23.9** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | — |
+| Event Surface Described | yes |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 25.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/azuga/](https://apis.io/providers/azuga/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Azuga: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/azuga/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
